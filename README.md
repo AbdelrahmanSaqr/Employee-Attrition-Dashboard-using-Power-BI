@@ -63,3 +63,6 @@ The Power BI dashboard consists of multiple pages, each providing a focused anal
 3. Explore the interactive dashboards, visualizations, and analysis tools to gain insights into employee attrition dynamics.
 
 ## Demo
+
+https://github.com/AbdelrahmanSaqr/Employee-Attrition-Dashboard-using-Power-BI/assets/112902210/24b248b4-a143-4fda-bf10-2d2e8e6468d5
+
